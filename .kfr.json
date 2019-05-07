@@ -1,0 +1,6 @@
+{
+    "branch": "master",
+    "steps" :[
+        "python example/test_calc.py"
+    ]
+}
